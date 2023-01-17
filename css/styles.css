@@ -148,9 +148,9 @@ body {
 }
 .face {
   background-color: var(--wall-color);
-  background-image: url(../images/img-17.jpg);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/img-17.jpg);
   background-position: 50% 50%;
-  box-shadow: 0px 0px 0px 300px rgba(47,48,58,0.39) inset;
+  
   max-width: 1600px;
   padding-top: 200px;
   padding-bottom: 200px;
